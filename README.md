@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amr Elsayyad, "El" is the definite article in Arabic like "the", so you can call me "Sayyad", with "a" pronounciation in German. "Amr" is fine :D
+- 👀 I’m interested in Data Science and Software Development (anything except for front end)
+- 🌱 I’m currently learning Data Science Nanodegree at Udacity.com, and self-studying Embedded Systems using AVR.
+- 💞️ I’m looking to collaborate on any interesting project including AI application, or some fancy DSA. Probably anything interesting.
+- 📫 How to reach me? You can send me an e-mail on:     amrelsayyad96@outlook.com
