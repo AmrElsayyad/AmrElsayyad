@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amrelsayyad96@outlook.com**
 
-- ⚡ Fun fact **I think I will spend my life learning, not to do something with it eventualy :smile:**
+- ⚡ Fun fact **I think I will spend my life learning, not to do something with it eventually :smile:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
