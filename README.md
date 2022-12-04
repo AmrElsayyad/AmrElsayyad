@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Elsayyad</h1>
-<h3 align="center">A passionate { AI & ML, Embedded SW, Mechatronics, Robotics, Automation } Engineer from Egypt</h3>
+<h3 align="center">A passionate AI / ML & Mechatronics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrelsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="amrelsayyad" /> </p>
 
