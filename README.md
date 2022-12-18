@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrelsayyad&show_icons=true&locale=en" alt="amrelsayyad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&" alt="amrelsayyad" /></p>
-
-![](https://hit.yhype.me/github/profile?user_id=20210190)
