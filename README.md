@@ -9,8 +9,6 @@
 
 [![trophies-light](https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&margin-w=15&margin-h=15&theme=flat#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
-- 📫 How to reach me **amrelsayyad96@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amrelsayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrelsayyad" height="30" width="40" /></a>
