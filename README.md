@@ -15,7 +15,7 @@
   <a href="https://stackoverflow.com/users/15553044" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15553044" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/amerlsayyad" target="blank">
+  <a href="https://kaggle.com/amrelsayyad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://kaggle.com/amerlsayyad" height="30" width="40" />
   </a>
   <a href="https://medium.com/@amrelsayyad" target="blank">
