@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrelsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
-[![trophies-dark](https://github-profile-trophy.vercel.app/?username=amrelsayyad&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![trophies-dark](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
-[![trophies-light](https://github-profile-trophy.vercel.app/?username=amrelsayyad&margin-w=15&margin-h=15&theme=flat)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+[![trophies-light](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=flat)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
