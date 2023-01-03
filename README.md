@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Amr Elsayyad</h1>
-<h3 align="center">A Mechatronics Engineer who is passionate about software, AI, and ML.</h3>
+# Hi 👋, I'm Amr Elsayyad <img align="right" src="https://komarev.com/ghpvc/?username=amrelsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="github-profile-views">
+### A Mechatronics Engineer who is passionate about software, AI, and ML.
 
-[![profile-views](https://komarev.com/ghpvc/?username=amrelsayyad&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
+You can help me to achieve my goals of improving the world through code, and help me create a better developer experience by [sponsoring me](https://github.com/sponsors/AmrElsayyad) on GitHub. Any contributions are greatly appreciated. 
+
+I would spend 100% of my time on open-source if I could afford it. That's not a reality yet, but with your help, we can make it happen!
 
 [![trophies-dark](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 [![trophies-light](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=flat)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/amrelsayyad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/amrelsayyad" height="30" width="40" />
@@ -28,7 +30,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/amrelsayyad" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+### Languages and Tools:
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
