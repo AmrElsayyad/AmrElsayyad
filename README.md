@@ -139,6 +139,6 @@
 
 [![stats-light](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default)](https://github.com/amrelsayyad/github-readme-stats#gh-light-mode-only)
 
-[![streak-stats-dark](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-dark-mode-only)
+[![streak-stats-dark](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark#gh-dark-mode-only)
 
-[![streak-stats-light](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats#gh-light-mode-only)
+[![streak-stats-light](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default)](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default#gh-light-mode-only)
