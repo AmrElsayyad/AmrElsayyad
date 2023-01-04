@@ -1,4 +1,6 @@
-# Hi 👋, I'm Amr Elsayyad <img align="right" src="https://komarev.com/ghpvc/?username=amrelsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="github-profile-views">
+<img align="right" src="https://komarev.com/ghpvc/?username=amrelsayyad&label=Profile%20views&color=0e75b6&style=flat" alt="github-profile-views">
+
+# Hi 👋, I'm Amr Elsayyad 
 ### A Mechatronics Engineer who is passionate about SW, AI, and ML.
 
 You can help me to achieve my goals of improving the world through code, and help me create a better developer experience by [sponsoring me](https://github.com/sponsors/AmrElsayyad) on GitHub. Any contributions are greatly appreciated. 
