@@ -137,9 +137,9 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
   </a>
 </p>
 
-[![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell&theme=dark#gh-dark-mode-only)
+[![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=dark#gh-dark-mode-only)
 
-[![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell&theme=default)](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell&theme=default#gh-light-mode-only)
+[![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell&theme=default)](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=default#gh-light-mode-only)
 
 [![stats-dark](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark)](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark#gh-dark-mode-only)
 
