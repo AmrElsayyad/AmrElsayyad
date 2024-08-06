@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Amr Elsayyad 
 
-### A Software Engineer with a B.Sc. in Mechatronics Engineering and a passion for AI and ML.
+### A SW Engineer with a B.Sc. in Mechatronics Engineering and a passion for AI and ML.
 
 You can help me to achieve my goals of improving the world through code, and help me create a better developer experience by [sponsoring me](https://github.com/sponsors/AmrElsayyad) on GitHub. Any contributions are greatly appreciated. 
 
