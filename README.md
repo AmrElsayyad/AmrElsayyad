@@ -8,9 +8,14 @@ You can help me to achieve my goals of improving the world through code, and hel
 
 I would spend 100% of my time on open-source if I could afford it. That's not a reality yet, but with your help, we can make it happen!
 
-[![trophies-dark](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=onedark)](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=onedark#gh-dark-mode-only)
-
-[![trophies-light](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=flat)](https://github-profile-trophy.vercel.app/?username=amrelsayyad&theme=flat#gh-light-mode-only)
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark" alt="trophies-dark">
+  </a>
+  <a href="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat#gh-light-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat" alt="trophies-light">
+  </a>
+</div>
 
 ### Connect with me:
 <p align="left">
@@ -137,14 +142,28 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
   </a>
 </p>
 
-[![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=dark#gh-dark-mode-only)
+<div align="center">
+  <!-- Top Languages -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=dark#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=dark" alt="top-langs-dark">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=default#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=default" alt="top-langs-light">
+  </a>
 
-[![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=default)](https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=445&hide=makefile,cmake,shell,yacc&theme=default#gh-light-mode-only)
+  <!-- GitHub Stats -->
+  <a href="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark#gh-dark-mode-only">
+    <img src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark" alt="stats-dark">
+  </a>
+  <a href="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default#gh-light-mode-only">
+    <img src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default" alt="stats-light">
+  </a>
 
-[![stats-dark](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark)](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark#gh-dark-mode-only)
-
-[![stats-light](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default)](https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default#gh-light-mode-only)
-
-[![streak-stats-dark](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark#gh-dark-mode-only)
-
-[![streak-stats-light](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default)](https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default#gh-light-mode-only)
+  <!-- GitHub Streak Stats -->
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark" alt="streak-stats-dark">
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default" alt="streak-stats-light">
+  </a>
+</div>
