@@ -11,7 +11,7 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark&no-frame=true"
-    media="(max-width: 640px)"
+    media="(max-width: 640px) and (prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=-1&theme=onedark&no-frame=true"
@@ -80,39 +80,39 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
   <!-- Top Languages Card -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=699&hide=makefile,cmake,shell,yacc&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=699&hide=makefile,cmake,shell,yacc&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=699&hide=makefile,cmake,shell,yacc&theme=default" alt="Top Languages" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default" alt="Top Languages" />
   </picture>
 
   <!-- GitHub Stats Card -->
   <picture>
     <source
-      srcset="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark&card_width=699"
+      srcset="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark&card_width=450"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=699"
+      srcset="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=450"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=699" alt="GitHub Stats" />
+    <img width="100%" src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=450" alt="GitHub Stats" />
   </picture>
 
   <!-- GitHub Streak Stats Card -->
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark&card_width=699"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark&card_width=450"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=699"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=450"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=699" alt="GitHub Streak Stats" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=450" alt="GitHub Streak Stats" />
   </picture>
 </div>
