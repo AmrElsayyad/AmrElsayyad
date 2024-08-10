@@ -8,26 +8,6 @@ You can help me to achieve my goals of improving the world through code, and hel
 
 I would spend 100% of my time on open-source if I could afford it. That's not a reality yet, but with your help, we can make it happen!
 
-<picture>
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark&no-frame=true"
-    media="(max-width: 640px) and (prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=-1&theme=onedark&no-frame=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat&no-frame=true"
-    media="(max-width: 640px)"
-  />
-  <source
-    srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=-1&theme=flat&no-frame=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=-1&theme=flat&no-frame=true" alt="GitHub Trophies" />
-</picture>
-
 ### Connect with me:
 <div align="left" style="width:100%;">
   <a href="https://linkedin.com/in/amrelsayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:20px"/></a>
@@ -74,9 +54,25 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" style="margin-right:10px; margin-bottom:10px;"/></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Software/xd.svg" alt="xd" width="40" height="40" style="margin-right:10px; margin-bottom:10px;"/></a>
 </div>
+
 <br/>
 <br/>
-<div align="center" style="width:100%;">
+<br/>
+
+<div align="center">
+  <!-- GitHub Trophies Card -->
+  <picture>
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="70%" src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat" alt="GitHub Trophies" />
+  </picture>
+
   <!-- Top Languages Card -->
   <picture>
     <source
@@ -87,7 +83,7 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default" alt="Top Languages" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default" alt="Top Languages" />
   </picture>
 
   <!-- GitHub Stats Card -->
@@ -100,7 +96,7 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
       srcset="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=450"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=450" alt="GitHub Stats" />
+    <img width="70%" src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default&card_width=450" alt="GitHub Stats" />
   </picture>
 
   <!-- GitHub Streak Stats Card -->
@@ -113,6 +109,6 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
       srcset="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=450"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=450" alt="GitHub Streak Stats" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default&card_width=450" alt="GitHub Streak Stats" />
   </picture>
 </div>
