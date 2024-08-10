@@ -56,8 +56,6 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
 </div>
 
 <br/>
-<br/>
-<br/>
 
 <div align="center">
   <!-- GitHub Trophies Card -->
