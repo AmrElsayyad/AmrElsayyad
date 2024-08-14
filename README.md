@@ -74,14 +74,14 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
   <!-- Top Languages Card -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc&theme=default" alt="Top Languages" />
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&card_width=450&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default" alt="Top Languages" />
   </picture>
 
   <!-- GitHub Stats Card -->
