@@ -68,8 +68,8 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
   </a>
 
   <!-- Top Languages -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc&theme=dark#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc&theme=dark" alt="top-langs-dark" style="width: 450px;">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=dark#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=dark" alt="top-langs-dark" style="width: 450px;">
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default" alt="top-langs-light" style="width: 450px;">
