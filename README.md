@@ -60,8 +60,8 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
 <div align="center">
 
   <!-- GitHub Trophies Card -->
-  <a href="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=onedark" alt="trophies-dark" style="width: 450px;">
+  <a href="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=darkhub#gh-dark-mode-only">
+    <img src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=darkhub" alt="trophies-dark" style="width: 450px;">
   </a>
   <a href="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat#gh-light-mode-only">
     <img src="https://github-profile-trophy.vercel.app/?username=amrelsayyad&column=3&theme=flat" alt="trophies-light" style="width: 450px;">
