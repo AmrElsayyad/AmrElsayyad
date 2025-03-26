@@ -75,20 +75,4 @@ I would spend 100% of my time on open-source if I could afford it. That's not a 
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default" alt="top-langs-light" style="width: 450px;">
   </a>
 
-  <!-- GitHub Stats -->
-  <a href="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark#gh-dark-mode-only">
-    <img src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=dark" alt="stats-dark" style="width: 450px;">
-  </a>
-  <a href="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default#gh-light-mode-only">
-    <img src="https://github-readme-stats-amrelsayyad.vercel.app/api?username=amrelsayyad&show_icons=true&theme=default" alt="stats-light" style="width: 450px;">
-  </a>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=dark" alt="streak-stats-dark" style="width: 450px;">
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrelsayyad&theme=default" alt="streak-stats-light" style="width: 450px;">
-  </a>
-
 </div>
