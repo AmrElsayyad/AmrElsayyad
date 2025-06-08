@@ -41,54 +41,58 @@ _Passionate ML engineer who builds innovative data-driven solutions and explores
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default" alt="top-langs-light" style="width: 450px;">
 </a>
 
-
+<% if (plugins.rss) { %>
 
 ## ✍️ Latest Blog Posts
 
+<% if (plugins.rss?.feed?.length > 0) { %>
+<% for (const post of plugins.rss.feed.slice(0, 4)) { %>
 
-
-
-- 📝 **[CQRS vs. CRUD: Choosing the Right Pattern for Your Application](https://medium.com/@AmrElsayyad/cqrs-vs-crud-choosing-the-right-pattern-for-your-application-0d614167d12b?source=rss-4c09ae6ec531------2)** - _20 Aug 2024_
-  
-  > 
-
-- 📝 **[The Art of Clean Code: Writing Software That Stands the Test of Time](https://medium.com/@AmrElsayyad/the-art-of-clean-code-writing-software-that-stands-the-test-of-time-f9d0306bd783?source=rss-4c09ae6ec531------2)** - _22 Jun 2024_
-  
-  > 
-
-- 📝 **[Mastering Data Visualization: The Ultimate Guide to Choosing the Right Plot for Your Data](https://medium.com/@AmrElsayyad/mastering-data-visualization-the-ultimate-guide-to-choosing-the-right-plot-for-your-data-386ba91f5f38?source=rss-4c09ae6ec531------2)** - _21 Jun 2024_
-  
-  > 
-  > 
+- 📝 **[<%= post.title %>](<%= post.link %>)** - _<%= f.date(post.date, {date: true}) %>_
+  <% if (post.description) { %>
+  > <%= post.description.replace(/<[^>]*>/g, '').substring(0, 150) %>...
+  > <% } %>
+  > <% } %>
+  > <% } else { %>
+  > _No recent blog posts to display._
+  > <% } %>
 
 [➡️ More posts on Medium](https://medium.com/@AmrElsayyad)
+<% } %>
 
-
-
+<% if (plugins.sponsors) { %>
 
 ## 💕 Support My Work
 
-
+<% if (plugins.sponsors?.goal?.title) { %>
 
 ### 🎯 Sponsorship Goal
 
-10 monthly sponsors
+<%= plugins.sponsors.goal.title %>
 
+<% if (plugins.sponsors.goal?.progress !== undefined) { %>
+Progress: **<%= plugins.sponsors.goal.progress %>%** complete
+<% } %>
 
-Progress: **0%** complete
+<% } %>
+<% if (plugins.sponsors?.list?.length > 0) { %>
 
+### 🙏 Current Sponsors
 
+<% for (const sponsor of plugins.sponsors.list.slice(0, 10)) { %>
 
-
+- 💖 **[<%= sponsor.name || sponsor.login %>](<https://github.com/><%= sponsor.login %>)** <% if (sponsor.tier?.name) { %>- _<%= sponsor.tier.name %>_ ($<%= (sponsor.tier.monthly_price_in_cents / 100).toFixed(0) %>/month)<% } %>
+  <% } %>
+  <% } else { %>
 
 ### 🙏 No Sponsors Yet
 
 Be the first to support my work!
-
+<% } %>
 
 **💝 [Become a Sponsor](https://github.com/sponsors/AmrElsayyad)**
 
-
+<% } %>
 
 ### Connect with me
 
