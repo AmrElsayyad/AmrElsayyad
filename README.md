@@ -66,12 +66,6 @@ _Passionate ML engineer who builds innovative data-driven solutions and explores
 
 
 
-## 💕 Support My Work
-
-**💝 [Become a Sponsor](https://github.com/sponsors/AmrElsayyad)**
-
-
-
 ### Connect with me
 
 <div align="left" style="width:100%;">
