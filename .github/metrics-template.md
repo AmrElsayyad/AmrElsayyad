@@ -60,13 +60,9 @@ _Passionate ML engineer who builds innovative data-driven solutions and explores
 [➡️ More posts on Medium](https://medium.com/@AmrElsayyad)
 <% } %>
 
-<% if (plugins.sponsors) { %>
-
 ## 💕 Support My Work
 
 **💝 [Become a Sponsor](https://github.com/sponsors/AmrElsayyad)**
-
-<% } %>
 
 ### Connect with me
 
