@@ -72,9 +72,3 @@ _Passionate ML engineer who builds innovative data-driven solutions and explores
   <a href="https://kaggle.com/amrelsayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" style="margin-right:20px"/></a>
   <a href="https://medium.com/@amrelsayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" style="margin-right:20px"/></a>
 </div>
-
----
-
-<div align="center">
-  <i>💡 This profile README is automatically updated using <a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></i>
-</div>
