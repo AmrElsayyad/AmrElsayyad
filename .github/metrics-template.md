@@ -64,32 +64,6 @@ _Passionate ML engineer who builds innovative data-driven solutions and explores
 
 ## 💕 Support My Work
 
-<% if (plugins.sponsors?.goal?.title) { %>
-
-### 🎯 Sponsorship Goal
-
-<%= plugins.sponsors.goal.title %>
-
-<% if (plugins.sponsors.goal?.progress !== undefined) { %>
-Progress: **<%= plugins.sponsors.goal.progress %>%** complete
-<% } %>
-
-<% } %>
-<% if (plugins.sponsors?.list?.length > 0) { %>
-
-### 🙏 Current Sponsors
-
-<% for (const sponsor of plugins.sponsors.list.slice(0, 10)) { %>
-
-- 💖 **[<%= sponsor.name || sponsor.login %>](<https://github.com/><%= sponsor.login %>)** <% if (sponsor.tier?.name) { %>- _<%= sponsor.tier.name %>_ ($<%= (sponsor.tier.monthly_price_in_cents / 100).toFixed(0) %>/month)<% } %>
-  <% } %>
-  <% } else { %>
-
-### 🙏 No Sponsors Yet
-
-Be the first to support my work!
-<% } %>
-
 **💝 [Become a Sponsor](https://github.com/sponsors/AmrElsayyad)**
 
 <% } %>
