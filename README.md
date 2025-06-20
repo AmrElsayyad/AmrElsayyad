@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Amr Elsayyad
 
-**Full Stack Machine Learning Engineer**
-
-_Passionate ML engineer who builds innovative data-driven solutions and explores cutting-edge technologies across the full ML lifecycle_
+A passionate _Full Stack AI Engineer_ who builds innovative data-driven solutions and explores cutting-edge technologies across the full ML lifecycle.
 
 🔧 **What I do:**
 
