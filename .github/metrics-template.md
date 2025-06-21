@@ -16,6 +16,7 @@ A passionate _Full Stack AI Engineer_ who builds innovative data-driven solution
 💡 **Machine Learning Expertise:**
 
 - **Supervised Learning**: Classification, regression, and ensemble methods
+- **Unsupervised Learning**: Clustering, dimensionality reduction, and anomaly detection
 - **Data Engineering**: ETL pipelines, feature engineering, and data preprocessing
 - **Statistical Analysis**: Applied linear algebra, statistics, and numerical optimization
 - **Data Visualization**: Creating insightful plots and dashboards using Matplotlib, pandas, and modern visualization tools
