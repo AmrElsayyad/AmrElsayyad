@@ -63,6 +63,8 @@ A passionate _Full Stack AI Engineer_ who builds innovative data-driven solution
 
 **💝 [Become a Sponsor](https://github.com/sponsors/AmrElsayyad)**
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/amrelsayyad)
+
 ### Connect with me
 
 <div align="left" style="width:100%;">
