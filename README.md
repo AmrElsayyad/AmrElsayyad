@@ -45,19 +45,7 @@ A passionate _Full Stack AI Engineer_ who builds innovative data-driven solution
 ## ✍️ Latest Blog Posts
 
 
-
-
-- 📝 **[CQRS vs. CRUD: Choosing the Right Pattern for Your Application](https://medium.com/@AmrElsayyad/cqrs-vs-crud-choosing-the-right-pattern-for-your-application-0d614167d12b?source=rss-4c09ae6ec531------2)** - _20 Aug 2024_
-  
-  > 
-
-- 📝 **[The Art of Clean Code: Writing Software That Stands the Test of Time](https://medium.com/@AmrElsayyad/the-art-of-clean-code-writing-software-that-stands-the-test-of-time-f9d0306bd783?source=rss-4c09ae6ec531------2)** - _22 Jun 2024_
-  
-  > 
-
-- 📝 **[Mastering Data Visualization: The Ultimate Guide to Choosing the Right Plot for Your Data](https://medium.com/@AmrElsayyad/mastering-data-visualization-the-ultimate-guide-to-choosing-the-right-plot-for-your-data-386ba91f5f38?source=rss-4c09ae6ec531------2)** - _21 Jun 2024_
-  
-  > 
+  > _No recent blog posts to display._
   > 
 
 [➡️ More posts on Medium](https://medium.com/@AmrElsayyad)
