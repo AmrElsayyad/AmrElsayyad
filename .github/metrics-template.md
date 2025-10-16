@@ -6,7 +6,7 @@ A passionate _Full Stack AI Engineer_ who builds innovative data-driven solution
 
 🔧 **What I do:**
 
-- 🤖 **Machine Learning & AI**: Develop and deploy ML models using Python, scikit-learn, TensorFlow, and PyTorch
+- 🤖 **Machine Learning & AI**: Develop and deploy ML models using Python
 - 📊 **Data Science**: Apply statistical analysis, data visualization, and predictive modeling to solve business problems
 - ⚡ **Big Data Processing**: Utilize Spark & PySpark for large-scale data engineering and ML workflows
 - 🏗️ **MLOps & Engineering**: Build robust backend solutions with FastAPI, Java, and implement ML model deployment pipelines
