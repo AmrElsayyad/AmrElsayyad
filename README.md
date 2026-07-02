@@ -33,11 +33,11 @@ A passionate _Software Engineer_ who builds innovative data-driven solutions and
 
 ## 📊 Top Languages
 
-<a href="https://github-stats-extended.vercel.app/api?theme=dark/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile#gh-dark-mode-only">
-  <img src="https://github-stats-extended.vercel.app/api?theme=dark/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile" alt="top-langs-dark" style="width: 450px;">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=dark#gh-dark-mode-only">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=dark" alt="top-langs-dark" style="width: 450px;">
 </a>
-<a href="https://github-stats-extended.vercel.app/api?theme=default/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile#gh-light-mode-only">
-  <img src="https://github-stats-extended.vercel.app/api?theme=default/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile" alt="top-langs-light" style="width: 450px;">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default#gh-light-mode-only">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=amrelsayyad&layout=compact&hide=makefile,cmake,shell,yacc,lex,powershell,batchfile&theme=default" alt="top-langs-light" style="width: 450px;">
 </a>
 
 
